@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Document   : savechat.xml
+    Created on : August 31, 2011, 11:02 AM
+    Author     : Satellite
+    Description:
+        Purpose of the document follows.
+-->
+<savechats>
+  <savechat date="1/36/2011" time="3:17" nickname="erickman" message="hola" />
+  <savechat date="1/36/2011" time="3:20" nickname="jpjesus" message="hola" />
+  <savechat date="1/36/2011" time="3:31" nickname="joha" message="hola" />
+  <savechat date="1/36/2011" time="3:31" nickname="joha" message="hola" />
+  <savechat date="1/36/2011" time="3:31" nickname="jpjesus" message="como estas" />
+  <savechat date="1/36/2011" time="3:38" nickname="joha" message="hola" />
+  <savechat date="1/36/2011" time="3:38" nickname="jpjesus" message="hola" />
+  <savechat date="1/36/2011" time="3:38" nickname="jpjesus" message="como estas" />
+  <savechat date="1/36/2011" time="3:46" nickname="joha" message="holaaaa" />
+  <savechat date="1/36/2011" time="3:46" nickname="joha" message="holaaaa" />
+  <savechat date="1/36/2011" time="3:46" nickname="joha" message="holaaaa" />
+  <savechat date="1/36/2011" time="3:46" nickname="joha" message="holaaaa" />
+  <savechat date="1/36/2011" time="3:46" nickname="joha" message="holaaaa" />
+  <savechat date="1/36/2011" time="3:46" nickname="jpjesus" message="maldita sea" />
+  <savechat date="1/36/2011" time="3:50" nickname="joha" message="hola" />
+  <savechat date="1/36/2011" time="3:54" nickname="jpjesus" message="hola" />
+  <savechat date="1/36/2011" time="3:57" nickname="joha" message="hola" />
+  <savechat date="1/36/2011" time="4:0" nickname="jpjesus" message="hola" />
+</savechats>
+

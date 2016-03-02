@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Document   : preferences.xml
+    Created on : August 23, 2011, 1:12 PM
+    Author     : Satellite
+    Description:
+        Purpose of the document follows.
+-->
+<preferences>
+  <preference nickname="jpjesus" serverip="127.0.0.1" serverport="7687" clientport="7686" />
+  <preference nickname="joha" serverip="127.0.0.1" serverport="7687" clientport="7693" />
+  <preference nickname="erickman" serverip="127.0.0.1" serverport="7687" clientport="7689" />
+</preferences>
+

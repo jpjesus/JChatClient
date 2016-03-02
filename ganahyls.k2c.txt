@@ -1,0 +1,34 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#	new file:   build/classes/controller/IpAddress.class
+#	new file:   build/classes/controller/JChatController.class
+#	new file:   build/classes/controller/JtreeIncons.class
+#	new file:   build/classes/controller/LogController.class
+#	new file:   build/classes/controller/NicknameComparator2.class
+#	new file:   build/classes/controller/PreferencesController.class
+#
+# Untracked files:
+#	MyLibrary/
+#	build/classes/Jerse.png
+#	build/classes/controller/RegistrationController.class
+#	build/classes/controller/UserProfileController.class
+#	build/classes/domain/
+#	build/classes/hola.jpg
+#	build/classes/logic/
+#	build/classes/pelota.png
+#	build/classes/pictures/
+#	build/classes/presentation/
+#	build/classes/util/
+#	build/classes/window.png
+#	manifest.mf
+#	nbproject/
+#	png_icons/
+#	read_me.txt
+#	src/
+#	web_design_icon_set.zip
+#	web_design_icon_set/
+#
+
